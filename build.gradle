@@ -1,3 +1,4 @@
+apply plugin: 'application'
 plugins {
     id 'com.jfrog.bintray' version '1.7.3'
     id 'org.ajoberstar.git-publish' version '0.3.2'
